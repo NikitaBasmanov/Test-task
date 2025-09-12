@@ -1,0 +1,23 @@
+{
+    "name": "magbo-parser",
+    "version": "1.0.0",
+    "description": "Парсер для сайта magbo.ru",
+    "main": "parser.js",
+    "scripts": {
+        "start": "node parser.js",
+        "test": "node test-parser.js"
+    },
+    "dependencies": {
+        "puppeteer": "^21.5.2",
+        "csv-writer": "^1.6.0",
+        "cheerio": "^1.0.0-rc.12",
+        "axios": "^1.6.2"
+    },
+    "keywords": [
+        "parser",
+        "scraping",
+        "magbo"
+    ],
+    "author": "",
+    "license": "MIT"
+}
