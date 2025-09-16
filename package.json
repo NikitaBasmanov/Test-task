@@ -11,7 +11,8 @@
         "puppeteer": "^21.5.2",
         "csv-writer": "^1.6.0",
         "cheerio": "^1.0.0-rc.12",
-        "axios": "^1.6.2"
+        "axios": "^1.6.2",
+        "csv-stringify": "^6.4.4"
     },
     "keywords": [
         "parser",
